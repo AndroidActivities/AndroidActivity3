@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_0f94db49edf8fe59775204f8931df91a2953f111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_ae109e4a3b5eb05785b30b83a12dad7ca68356ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_23aacbc700196d760291bd4f4be838155e86f7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_14d1e5edeb3615ad326eaef44c1b0bfbf68cf0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_66babd98246a81c194c0ca190b135abe3c709f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Jaume\Documents\SurtidoIntentImpl-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_348b1a36f1bd0046924956cc1f97c4c7fed1a277.jar" />
+    </item>
+
+</items>
